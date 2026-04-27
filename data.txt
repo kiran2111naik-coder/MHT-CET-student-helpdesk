@@ -1,0 +1,169 @@
+Q: What is the name of the college?
+Q: College name?
+Q: Which institute is this?
+A: Nutan Maharashtra Institute of Engineering and Technology, Talegaon, Pune.
+
+Q: Where is the college located?
+Q: Location of college?
+A: Talegaon, Pune, Maharashtra.
+
+================ ELIGIBILITY =================
+
+Q: What is eligibility for Maharashtra students?
+Q: Who can apply from Maharashtra?
+Q: Criteria for Maharashtra candidates?
+A: Candidate must be Indian, passed HSC with Physics and Mathematics and one subject like Chemistry/CS with minimum 45% marks (40% reserved) and must appear in MHT-CET with non-zero score OR Diploma with 45%.
+
+Q: Is MHT-CET compulsory?
+Q: Do I need CET exam?
+A: Yes, MHT-CET is required with non-zero score.
+
+Q: Can diploma students apply?
+Q: Diploma eligibility?
+A: Yes, diploma students can apply with minimum 45% marks.
+
+Q: What is eligibility for All India candidates?
+Q: Can other state students apply?
+A: Candidate must pass HSC with PCM and valid JEE or MHT-CET score.
+
+Q: Eligibility for NRI students?
+Q: Foreign student eligibility?
+A: Must pass HSC with Physics and Mathematics and minimum 45% marks.
+
+================ DOCUMENTS =================
+
+Q: What documents are required?
+Q: Documents needed for admission?
+Q: Admission document list?
+A: Required documents include DTE allotment letter, CET/JEE scorecard, SSC and HSC marksheets, diploma marksheet, leaving certificate, nationality certificate, domicile certificate, caste certificate, caste validity, EWS certificate, income certificate, Aadhaar card, medical certificate, gap certificate and photos.
+
+Q: How many photos are required?
+A: Four passport size photos with white background.
+
+Q: Are original documents required?
+A: Yes, all original documents and 3 sets of photocopies are required.
+
+================ CANDIDATE TYPES =================
+
+Q: What is Type A candidate?
+A: Candidate who is domicile of Maharashtra or born in Maharashtra.
+
+Q: What is Type B candidate?
+A: Candidate whose parent is domiciled in Maharashtra.
+
+Q: What is Type C candidate?
+A: Candidate whose parent is Central Government employee posted in Maharashtra.
+
+Q: What is Type D candidate?
+A: Candidate whose parent is Maharashtra Government employee or retired.
+
+Q: What is Type E candidate?
+A: Candidate from Maharashtra-Karnataka border with Marathi as mother tongue.
+
+================ CATEGORY DOCUMENTS =================
+
+Q: Documents for SC ST?
+A: Caste certificate and caste validity certificate required.
+
+Q: Documents for OBC?
+A: Caste certificate, caste validity and non creamy layer certificate required.
+
+Q: Documents for EWS?
+A: Income certificate less than 8 lakh and EWS certificate required.
+
+Q: Documents for TFWS?
+A: Income certificate less than 8 lakh required.
+
+Q: Documents for orphan candidate?
+A: Orphan certificate required.
+
+Q: Documents for minority candidate?
+A: Religion or language declaration certificate required.
+
+Q: Documents for defence candidate?
+A: Defence service certificate required.
+
+Q: Documents for disabled candidate?
+A: Disability certificate required.
+
+================ FOREIGN / NRI =================
+
+Q: Documents for NRI students?
+Q: NRI admission documents?
+A: Passport, visa, affidavit, residence proof, bank statement and AIU certificate required.
+
+Q: Documents for foreign students?
+A: Passport, marksheets, AIU certificate, residence proof and affidavit required.
+
+================ RESERVATION =================
+
+Q: What is reservation for SC?
+A: 13%.
+
+Q: What is reservation for ST?
+A: 7%.
+
+Q: What is reservation for OBC?
+A: 19%.
+
+Q: Total reservation?
+A: 50%.
+
+Q: Reservation for female?
+A: 30%.
+
+Q: Reservation for EWS?
+A: 10%.
+
+Q: Reservation for defence?
+A: 5%.
+
+Q: Reservation for disability?
+A: 5%.
+
+Q: Reservation for orphan?
+A: 1%.
+
+================ BRANCHES =================
+
+Q: What branches are available?
+Q: Courses offered?
+Q: Engineering branches?
+A: Computer Engineering, Computer Science, Information Technology, Mechanical Engineering, Electronics and Telecommunication, Artificial Intelligence, AI & DS.
+
+================ INTAKE =================
+
+Q: Intake for Computer Engineering?
+A: Around 180+ seats.
+
+Q: Intake for Computer Science?
+A: Around 240+ seats.
+
+Q: Intake for IT?
+A: Around 120+ seats.
+
+Q: Intake for Mechanical?
+A: Around 120+ seats.
+
+Q: Intake for EXTC?
+A: Around 120+ seats.
+
+Q: Intake for AI?
+A: Around 60+ seats.
+
+================ NMVPM GROUP =================
+
+Q: What is NMVPM group?
+A: Educational group with 14 institutes including schools and colleges.
+
+Q: Total institutes in NMVPM?
+A: 14 institutes.
+
+Q: How many schools in NMVPM?
+A: Primary schools: 2, Secondary schools: 6.
+
+Q: How many colleges?
+A: Junior colleges: 3, Senior college: 1.
+
+Q: Technical institutes?
+A: 2 institutes.
